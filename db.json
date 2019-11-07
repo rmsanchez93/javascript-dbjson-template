@@ -1,4 +1,8 @@
 {
-    "test": "this is your 'backend' to play with",
-    "also": "you can run this by using json-server"
+   "test":{
+        "key": "some value"
+   },
+   "this": {
+        "key": "some value"
+   }
 }
